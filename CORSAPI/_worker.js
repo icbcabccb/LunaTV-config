@@ -269,7 +269,7 @@ async function handleHomePage(currentOrigin, defaultPrefix) {
   </style>
 </head>
 <body>
-  <h1>🔄 API 中转代理服务</h1>
+  <h1>🔄 My-API 中转代理服务</h1>
   <p>通用 API 中转代理，用于访问被墙或限制的接口。</p>
   
   <h2>使用方法</h2>
@@ -289,7 +289,7 @@ async function handleHomePage(currentOrigin, defaultPrefix) {
       <tr>
         <td>source</td>
         <td><code>jin18</code> = 精简版<br>
-            <code>jingjian</code> = 精简版+成人<br>
+            <code>jingjian</code> = 精简版+CR<br>
             <code>full</code> = 完整版（默认）</td>
       </tr>
       <tr>
@@ -310,7 +310,7 @@ async function handleHomePage(currentOrigin, defaultPrefix) {
   </div>
   
   <div class="section">
-    <h3>📦 精简版+成人（jingjian）</h3>
+    <h3>📦 精简版+CR（jingjian）</h3>
     <p>原始 JSON：<br><code class="copyable">${currentOrigin}?format=0&source=jingjian</code> <button class="copy-btn">复制</button></p>
     <p>中转代理 JSON：<br><code class="copyable">${currentOrigin}?format=1&source=jingjian</code> <button class="copy-btn">复制</button></p>
     <p>原始 Base58：<br><code class="copyable">${currentOrigin}?format=2&source=jingjian</code> <button class="copy-btn">复制</button></p>
