@@ -93,7 +93,7 @@
     },
     "jinyingzy.com": {
       "name": "🎬金鹰点播",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.com"
     },
     "p2100.net": {
@@ -123,35 +123,23 @@
     },
     "www.ryzyw.com": {
       "name": "🎬如意资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     },
     "www.haohuazy.com": {
       "name": "🎬豪华资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://www.haohuazy.com"
     },
     "bdzy1.com": {
       "name": "🎬百度云zy",
-      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
     },
     "lovedan.net": {
       "name": "🎬艾旦影视",
-      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
-    },
-    "zy.sh0o.cn": {
-      "_comment": "无搜索结果",
-      "name": "🎬山海资源",
-      "api": "https://zy.sh0o.cn/api.php/provide/vod",
-      "detail": "https://zy.sh0o.cn"
-    },
-    "zy.jinchancaiji.com": {
-      "_comment": "无搜索结果",
-      "name": "🎬金蝉影视",
-      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
-      "detail": "https://zy.jinchancaiji.com"
     },
     "lzizy.net": {
       "_comment": "备用",
@@ -178,7 +166,7 @@
       "detail": "https://wwzy.tv"
     },
     "1080zyk4.com": {
-      "_comment": "JSON 里所有中文字符为 Unicode 编码",
+      "_comment": "无法搜索",
       "name": "🎬优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "detail": "https://1080zyk4.com"
@@ -224,11 +212,6 @@
       "api": "https://91md.me/api.php/provide/vod",
       "detail": "https://91md.me"
     },
-    "91jpzyw.com": {
-      "name": "🔞91-精品-",
-      "api": "https://91jpzyw.com/api.php/provide/vod",
-      "detail": "https://91jpzyw.com"
-    },
     "lbapiby.com": {
       "name": "🔞--AIvin-",
       "api": "http://lbapiby.com/api.php/provide/vod",
@@ -253,11 +236,6 @@
       "name": "🔞-老色逼-",
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
-    },
-    "www.yyzywcj.com": {
-      "name": "🔞优优资源",
-      "api": "https://www.yyzywcj.com/api.php/provide/vod",
-      "detail": "https://www.yyzywcj.com"
     },
     "xiaojizy.live": {
       "name": "🔞小鸡资源",
@@ -296,7 +274,7 @@
     },
     "apilj.com": {
       "name": "🔞辣椒资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://apilj.com/api.php/provide/vod",
+      "api": "https://apilj.com/api.php/provide/vod",
       "detail": "https://apilj.com"
     },
     "shayuapi.com": {
@@ -304,12 +282,8 @@
       "api": "https://shayuapi.com/api.php/provide/vod",
       "detail": "https://shayuapi.com"
     },
-    "xzytv.com": {
-      "name": "🔞-幸资源-",
-      "api": "https://xzybb2.com/api.php/provide/vod",
-      "detail": "https://xzytv.com"
-    },
     "doudouzy.com": {
+      "_comment": " 不稳定 ",
       "name": "🔞豆豆资源",
       "api": "https://api.douapi.cc/api.php/provide/vod",
       "detail": "https://doudouzy.com"
@@ -363,19 +337,19 @@
       "detail": "https://www.xiangjiaozyw.com"
     },
     "www.msnii.com": {
-      "_comment": "JSON 里所有中文字符为 Unicode 编码",
+      "_comment": "无法搜索",
       "name": "🔞-美少女-",
       "api": "https://www.msnii.com/api/json.php",
       "detail": "https://www.msnii.com"
     },
     "www.pgxdy.com": {
-      "_comment": "JSON 里所有中文字符为 Unicode 编码",
+      "_comment": "无法搜索",
       "name": "🔞-黄AVZY",
       "api": "https://www.pgxdy.com/api/json.php",
       "detail": "https://www.pgxdy.com"
     },
     "www.kxgav.com": {
-      "_comment": "JSON 里所有中文字符为 Unicode 编码",
+      "_comment": "无法搜索",
       "name": "🔞白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
       "detail": "https://www.kxgav.com"
@@ -393,7 +367,7 @@
       "detail": "https://dadizy11.com"
     },
     "semaozy1.com": {
-      "_comment": "JSON 里所有中文字符为 Unicode 编码",
+      "_comment": "无法搜索",
       "name": "🔞色猫资源",
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
       "detail": "https://semaozy1.com"

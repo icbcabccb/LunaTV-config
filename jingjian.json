@@ -93,7 +93,7 @@
     },
     "jinyingzy.com": {
       "name": "🎬金鹰点播",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.com"
     },
     "p2100.net": {
@@ -123,33 +123,28 @@
     },
     "www.ryzyw.com": {
       "name": "🎬如意资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     },
     "www.haohuazy.com": {
       "name": "🎬豪华资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://www.haohuazy.com"
     },
     "bdzy1.com": {
       "name": "🎬百度云zy",
-      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
     },
     "lovedan.net": {
       "name": "🎬艾旦影视",
-      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
     },
     "91md.me": {
       "name": "🔞麻豆视频",
       "api": "https://91md.me/api.php/provide/vod",
       "detail": "https://91md.me"
-    },
-    "91jpzyw.com": {
-      "name": "🔞91-精品-",
-      "api": "https://91jpzyw.com/api.php/provide/vod",
-      "detail": "https://91jpzyw.com"
     },
     "lbapiby.com": {
       "name": "🔞--AIvin-",
@@ -175,11 +170,6 @@
       "name": "🔞-老色逼-",
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
-    },
-    "www.yyzywcj.com": {
-      "name": "🔞优优资源",
-      "api": "https://www.yyzywcj.com/api.php/provide/vod",
-      "detail": "https://www.yyzywcj.com"
     },
     "xiaojizy.live": {
       "name": "🔞小鸡资源",
@@ -218,23 +208,13 @@
     },
     "apilj.com": {
       "name": "🔞辣椒资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://apilj.com/api.php/provide/vod",
+      "api": "https://apilj.com/api.php/provide/vod",
       "detail": "https://apilj.com"
     },
     "shayuapi.com": {
       "name": "🔞鲨鱼资源",
       "api": "https://shayuapi.com/api.php/provide/vod",
       "detail": "https://shayuapi.com"
-    },
-    "xzytv.com": {
-      "name": "🔞-幸资源-",
-      "api": "https://xzybb2.com/api.php/provide/vod",
-      "detail": "https://xzytv.com"
-    },
-    "doudouzy.com": {
-      "name": "🔞豆豆资源",
-      "api": "https://api.douapi.cc/api.php/provide/vod",
-      "detail": "https://doudouzy.com"
     },
     "didizy.com": {
       "name": "🔞滴滴资源",
